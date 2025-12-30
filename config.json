@@ -1,0 +1,15 @@
+{
+    "save_path": "C:\\Users\\User\\Videos",
+    "resolution": "1080p",
+    "fps": 30,
+    "quality": "Medium",
+    "codec": "MP4V",
+    "audio_source": "Microphone + System",
+    "mic_volume": 80,
+    "system_volume": 100,
+    "show_cursor": true,
+    "show_countdown": true,
+    "minimize_to_tray": false,
+    "auto_merge": true,
+    "filename_prefix": "ScreenRecord"
+}
